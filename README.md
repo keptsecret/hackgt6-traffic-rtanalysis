@@ -1,4 +1,4 @@
-# hackgt6-traffic-rtanalysis
+# HackGT 6 - TrafficWatcher project
 This is a project I worked on for HackGT 6 where traffic livestreams were analyzed real time with _opencv_ and _tensorflow_.
 What is done in this script is the vehicles from the traffic livestreams are tracked and the average speed is calculated for the time on that stretch of road.
 
